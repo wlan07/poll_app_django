@@ -1,0 +1,14 @@
+li a {
+    color: white;
+}
+
+body {
+    background-image: url("images/background.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+
+
+
